@@ -1,0 +1,15 @@
+D:\下載\Github專案\Basic_Dll\DLLtest2\DLLtest2\bin\Debug\Demo.exe.config
+D:\下載\Github專案\Basic_Dll\DLLtest2\DLLtest2\bin\Debug\Demo.exe
+D:\下載\Github專案\Basic_Dll\DLLtest2\DLLtest2\bin\Debug\Demo.pdb
+D:\下載\Github專案\Basic_Dll\DLLtest2\DLLtest2\obj\Debug\Demo.csproj.AssemblyReference.cache
+D:\下載\Github專案\Basic_Dll\DLLtest2\DLLtest2\obj\Debug\MainWindow.g.cs
+D:\下載\Github專案\Basic_Dll\DLLtest2\DLLtest2\obj\Debug\App.g.cs
+D:\下載\Github專案\Basic_Dll\DLLtest2\DLLtest2\obj\Debug\Demo_MarkupCompile.cache
+D:\下載\Github專案\Basic_Dll\DLLtest2\DLLtest2\obj\Debug\Demo_MarkupCompile.lref
+D:\下載\Github專案\Basic_Dll\DLLtest2\DLLtest2\obj\Debug\MainWindow.baml
+D:\下載\Github專案\Basic_Dll\DLLtest2\DLLtest2\obj\Debug\Demo.g.resources
+D:\下載\Github專案\Basic_Dll\DLLtest2\DLLtest2\obj\Debug\Demo.Properties.Resources.resources
+D:\下載\Github專案\Basic_Dll\DLLtest2\DLLtest2\obj\Debug\Demo.csproj.GenerateResource.cache
+D:\下載\Github專案\Basic_Dll\DLLtest2\DLLtest2\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\下載\Github專案\Basic_Dll\DLLtest2\DLLtest2\obj\Debug\Demo.exe
+D:\下載\Github專案\Basic_Dll\DLLtest2\DLLtest2\obj\Debug\Demo.pdb

@@ -1,0 +1,15 @@
+C:\Users\x123x\source\repos\DLLtest2\DLLtest2\bin\Debug\DLLtest2.exe.config
+C:\Users\x123x\source\repos\DLLtest2\DLLtest2\bin\Debug\DLLtest2.exe
+C:\Users\x123x\source\repos\DLLtest2\DLLtest2\bin\Debug\DLLtest2.pdb
+C:\Users\x123x\source\repos\DLLtest2\DLLtest2\obj\Debug\DLLtest2.csprojAssemblyReference.cache
+C:\Users\x123x\source\repos\DLLtest2\DLLtest2\obj\Debug\MainWindow.g.cs
+C:\Users\x123x\source\repos\DLLtest2\DLLtest2\obj\Debug\App.g.cs
+C:\Users\x123x\source\repos\DLLtest2\DLLtest2\obj\Debug\DLLtest2_MarkupCompile.cache
+C:\Users\x123x\source\repos\DLLtest2\DLLtest2\obj\Debug\DLLtest2_MarkupCompile.lref
+C:\Users\x123x\source\repos\DLLtest2\DLLtest2\obj\Debug\MainWindow.baml
+C:\Users\x123x\source\repos\DLLtest2\DLLtest2\obj\Debug\DLLtest2.g.resources
+C:\Users\x123x\source\repos\DLLtest2\DLLtest2\obj\Debug\DLLtest2.Properties.Resources.resources
+C:\Users\x123x\source\repos\DLLtest2\DLLtest2\obj\Debug\DLLtest2.csproj.GenerateResource.cache
+C:\Users\x123x\source\repos\DLLtest2\DLLtest2\obj\Debug\DLLtest2.csproj.CoreCompileInputs.cache
+C:\Users\x123x\source\repos\DLLtest2\DLLtest2\obj\Debug\DLLtest2.exe
+C:\Users\x123x\source\repos\DLLtest2\DLLtest2\obj\Debug\DLLtest2.pdb
